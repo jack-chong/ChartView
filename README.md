@@ -2,4 +2,4 @@
 
 
 
-![image](https://github.com/jack-chong/ScheduleView/blob/master/app/gif/ScheduleView.gif)
+![image](https://github.com/jack-chong/ChartView/tree/master/app/gif)
